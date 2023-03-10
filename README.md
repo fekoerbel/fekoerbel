@@ -2,7 +2,7 @@
 
 
 - 👋 Hi there, I’m @fekoerbel;
-- 🌱 I’m currently learning HTML5, CSS3 and Javascript;
+- 🌱 I’m currently React with typescript;
 - 🔭 I’m currently working on ClickRight - Soluções em Tecnologia;
 - ⚡ Fun fact: I also have degree in Law;
 - 📫 How to reach me: fekoerbel@hotmail.com;
