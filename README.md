@@ -4,7 +4,6 @@
 - 👋 Hi there, I’m @fekoerbel;
 - 🌱 I’m currently React with typescript;
 - 🔭 I’m currently working on ClickRight - Soluções em Tecnologia;
-- ⚡ Fun fact: I also have degree in Law;
 - 📫 How to reach me: fekoerbel@hotmail.com;
 <div style ="display : flex" "justify-content= space-evenly">
   <a href="https://github.com/fekoerbel">
