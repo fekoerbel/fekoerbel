@@ -2,20 +2,25 @@
 
 
 - 👋 Hi there, I’m @fekoerbel;
-- 🌱 I’m currently React with typescript;
+- 🌱 I’m currently working with React using TypeScript, and Laravel with PHP;
 - 🔭 I’m currently working on ClickRight - Soluções em Tecnologia;
 - 📫 How to reach me: fekoerbel@hotmail.com;
 <div style ="display : flex" "justify-content= space-evenly">
   <a href="https://github.com/fekoerbel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fekoerbel&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fekoerbel&layout=compact&langs_count=7&theme=dark"/>
-   
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=fekoerbel&theme=dark"/>
 </div>
 
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="fekoerbel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fekoerbel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fekoerbel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="fekoerbel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="fekoerbel-typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="fekoerbel-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="fekoerbel-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+  <img align="center" alt="fekoerbel-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="fekoerbel-laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="fekoerbel-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="fekoerbel-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
   
  ##
